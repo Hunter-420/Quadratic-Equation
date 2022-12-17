@@ -9,7 +9,7 @@
 
 3. Inside this function, use the quadratic formula to solve for the roots of the equation. The quadratic formula is:
 
-**x = (-b ± √(b^2 - 4ac)) / (2a)**
+      **x = (-b ± √(b^2 - 4ac)) / (2a)**
 
 4. Calculate the discriminant by subtracting 4ac from b^2. If the discriminant is less than 0, the equation has no real roots. If the discriminant is equal to 0, the equation has one real root. If the discriminant is greater than 0, the equation has two real roots.
 
