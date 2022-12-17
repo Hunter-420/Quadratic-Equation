@@ -1,4 +1,4 @@
-# Quadratic-Equation
+# Quadratic Equation Solving using HTML + Javascript
 **Live Site :**  https://hunter-420.github.io/Quadratic-Equation/
 
 **To solve a quadratic equation using HTML and JavaScript, you can use the following steps:**
